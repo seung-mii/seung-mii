@@ -7,7 +7,7 @@
 <div align=center>
 
 ### 🙌🏻 Introduction 
-Front Developer 👩🏻‍💻
+Frontend Developer 👩🏻‍💻
 
 <br/>
 
