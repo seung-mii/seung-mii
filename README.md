@@ -3,14 +3,16 @@
 #### 🌱  Frontend Developer 
 
 #### ✏  Studying
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Recoil](https://img.shields.io/badge/recoil-3578E5.svg?style=flat&logo=recoil&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=flat&logo=redux&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5.svg?style=flat&logo=recoil&logoColor=white)
+![styled-components](https://img.shields.io/badge/styled_components-DB7093.svg?style=flat&logo=styledcomponents&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=flat&logo=tailwindcss&logoColor=white)
+
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seung-mii&layout=compact)
 <br/>
