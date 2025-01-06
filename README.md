@@ -8,6 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/Javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white)
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=flat&logo=redux&logoColor=white)
 ![Recoil](https://img.shields.io/badge/Recoil-3578E5.svg?style=flat&logo=recoil&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled_components-DB7093.svg?style=flat&logo=styledcomponents&logoColor=white)
